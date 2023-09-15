@@ -1,0 +1,15 @@
+/workspaces/Diccionarios/Diccionarios/bin/Debug/net7.0/Diccionarios
+/workspaces/Diccionarios/Diccionarios/bin/Debug/net7.0/Diccionarios.deps.json
+/workspaces/Diccionarios/Diccionarios/bin/Debug/net7.0/Diccionarios.runtimeconfig.json
+/workspaces/Diccionarios/Diccionarios/bin/Debug/net7.0/Diccionarios.dll
+/workspaces/Diccionarios/Diccionarios/bin/Debug/net7.0/Diccionarios.pdb
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.csproj.AssemblyReference.cache
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.AssemblyInfoInputs.cache
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.AssemblyInfo.cs
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.csproj.CoreCompileInputs.cache
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.dll
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/refint/Diccionarios.dll
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.pdb
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/Diccionarios.genruntimeconfig.cache
+/workspaces/Diccionarios/Diccionarios/obj/Debug/net7.0/ref/Diccionarios.dll
