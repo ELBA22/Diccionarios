@@ -41,13 +41,40 @@ internal class Program
         Console.WriteLine("LLAVE {0} - VALOR {1}", pair.Key,pair.Value);
     } */
 
-    Dictionary<string, string>.ValueCollection valueColl = openWith.Values;
+/*  Dictionary<string, string>.ValueCollection valueColl = openWith.Values;
     foreach (string valor in valueColl){
         Console.WriteLine(valor);
     }
     openWith.Clear();
 
     Console.WriteLine("Total de datos en el diccionario: " +openWith.Count);
+    } */
+
+//ContainsKey determina si contiene clave especificada.
+/*     if (openWith.ContainsKey("bmp"))}{
+        Console.WriteLine("El tipo de formato esta soportado: ");
 
     }
+    Dictionary<string, string>.ValueCollection valueColl = openWith.Values;
+
+    foreach(string valor in valueColl){
+        Console.Wrtiteline(valor);
+    } */
+
+//ContainsValue 
+    if (openWith.ContainsValue("notepad")){
+        Console.WriteLine("El vakir se encuentra registrado.");
+    }else{
+        Console.WriteLine("El valor no se encuentra registrado. ");
+    }
+    Dictionary<string, string>.ValueCollection valueColl = openWith.Values;
+
+    openWith.Remove("dib");
+    //Remove:  Quita el valor con la clave especificada
+
+    foreach (string valor in valueColl){
+        Console.WriteLine(valor);
+        }
+    } 
 }
+
